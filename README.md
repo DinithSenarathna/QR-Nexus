@@ -84,3 +84,8 @@ Contributions are welcome! Here's how you can help:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## See this project in,
+
+- [Live Demo](https://qrnexusbydinith.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/posts/dinith-senarathna-407878355_webdevelopment-frontend-javascript-activity-7339717796366323714-s5P7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFiVX0cB-rMqn8jtEKGdYuc3N-rY1aOsJHk)
+
