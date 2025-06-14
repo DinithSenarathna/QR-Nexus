@@ -39,7 +39,7 @@ No installation required! This is a client-side only application.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/qr-nexus.git
+   git clone [https://github.com/DinithSenarathna/QR-Nexus.git]
    ```
 2. Open `index.html` in any modern browser
 
