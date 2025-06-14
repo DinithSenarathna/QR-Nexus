@@ -1,6 +1,6 @@
 # QR Nexus - Futuristic QR Code Generator & Reader
 
-![QR Nexus Demo](demo.gif) <!-- Replace with actual demo GIF if available -->
+![QR Nexus Demo](https://raw.githubusercontent.com/DinithSenarathna/QR-Nexus/main/QR%20Nexus%20preview.png) 
 
 QR Nexus is a modern, responsive web application that allows users to generate customizable QR codes and scan existing ones with a futuristic interface.
 
